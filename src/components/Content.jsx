@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from "react";
 import Video from "./Video";
 import img1 from '../assets/colagenemf.png'
-import img2 from '../assets/banner.png'
+import img2 from '../assets/phoenix_banner_new.png'
 
 const Content = () => {
   return (

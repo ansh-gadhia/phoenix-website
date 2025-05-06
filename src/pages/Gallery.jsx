@@ -62,15 +62,15 @@ const Gallery = () => {
       title: "Events & Workshops",
       images: [
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_4ccc51aa.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_4ccc51aa.jpg?raw=true",
           alt: "Workshop 1"
         },
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_6213395d.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_6213395d.jpg?raw=true",
           alt: "Workshop 2"
         },
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_b23231c2.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/moblie%20security%20workshop/WhatsApp%20Image%202024-10-01%20at%2022.08.47_b23231c2.jpg?raw=true",
           alt: "Workshop 3"
         }
       ]
@@ -79,11 +79,11 @@ const Gallery = () => {
       title: "Forum Establishment",
       images: [
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/inaguration/WhatsApp%20Image%202024-10-01%20at%2022.07.05_b3af165a.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/inaguration/WhatsApp%20Image%202024-10-01%20at%2022.07.05_b3af165a.jpg?raw=true",
           alt: "Forum 1"
         },
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/inaguration/WhatsApp%20Image%202024-10-01%20at%2022.07.05_f5b4ea31.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/inaguration/WhatsApp%20Image%202024-10-01%20at%2022.07.05_f5b4ea31.jpg?raw=true",
           alt: "Forum 2"
         }
       ]
@@ -92,11 +92,11 @@ const Gallery = () => {
       title: "EncipherX 2.0",
       images: [
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/encipherx2/WhatsApp%20Image%202024-10-01%20at%2022.07.05_a660627a.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/encipherx2/WhatsApp%20Image%202024-10-01%20at%2022.07.05_a660627a.jpg?raw=true",
           alt: "EncipherX 1"
         },
         {
-          src: "https://github.com/cutiepie2468/phxwebpic/blob/main/encipherx2/WhatsApp%20Image%202024-10-01%20at%2022.07.05_b78c306f.jpg?raw=true",
+          src: "https://github.com/ansh-gadhia/phxwebpic/blob/main/encipherx2/WhatsApp%20Image%202024-10-01%20at%2022.07.05_b78c306f.jpg?raw=true",
           alt: "EncipherX 2"
         }
       ]

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom';
-import navimg from '../assets/banner.png'
+import navimg from '../assets/phoenix_banner_new.png'
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -34,7 +34,6 @@ const Navbar = () => {
 
     const navLinks = [
         { path: '/', label: 'Home' },
-        { path: 'https://encipherx.phoenixcybersec.in/', label: 'EncipherX' },
         { path: '/domains', label: 'Our Domains' },
         { path: '/aboutus', label: 'About Us' },
         { path: '/gallery', label: 'Gallery' },
@@ -78,14 +77,6 @@ const Navbar = () => {
                                 >
                                     Home
                                 </Link>
-                                <a
-                                    href="http://encipherx.phoenixcybersec.in"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700/50 transition-all duration-300"
-                                >
-                                    EncipherX 3.0
-                                </a>
                                 <Link
                                     to="/domains"
                                     className={`px-3 py-2 rounded-md text-sm font-medium transition-all duration-300 ${

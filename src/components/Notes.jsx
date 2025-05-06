@@ -123,7 +123,7 @@ const Note = () => {
                     <div className="w-full h-64 flex flex-col justify-between items-start bg-gray-800/75 border-gray-700 rounded-lg border mb-6 py-5 px-4">
                         <div>
                             <h4 className="text-gray-100 font-bold mb-3 text-2xl">Cloud Security</h4>
-                            <p className="text-gray-100 text-sm text-justify">Cloud security encompasses the protection of cloud environments, including infrastructure, platforms, and software, by implementing advanced security controls such as Identity and Access Management (IAM), encryption, network segmentation, and Zero Trust architecture. It involves assessing misconfigurations in cloud services, securing APIs, monitoring for unauthorized activities, and ensuring compliance with frameworks like CIS Benchmarks, SOC 2, and ISO 27001 to prevent data breaches, privilege escalation, and other cloud-specific attack vectors.</p>
+                            <p className="text-gray-100 text-sm text-justify">Cloud security involves protecting cloud environments—covering infrastructure, platforms, and software—through measures like IAM, encryption, network segmentation, and Zero Trust architecture. It includes detecting misconfigurations, securing APIs, monitoring for threats, and ensuring compliance with standards like CIS Benchmarks, SOC 2, and ISO 27001 to prevent data breaches and other cloud-specific attacks.</p>
                         </div>
                     </div>
                     </motion.div>

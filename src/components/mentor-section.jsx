@@ -2,47 +2,47 @@ export function MentorSection() {
   const mentors = [
     {
       name: "Rushi Wagh",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/rushi.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/rushi.jpg",
       bio: "Rushi Wagh is a tech geek with a passion for exploring DevOps, specializing in AWS, Linux administration, Ansible, Docker, and Jenkins. Alongside his technical expertise, he is also an infographics designer with a keen interest in vehicle dynamics."
     },
     {
       name: "Abin George Varghese",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Abin%20George%20Varghese.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Abin%20George%20Varghese.jpg",
       bio: "Abin George Varghese is a dynamic support desk executive at RMV India with a passion for cybersecurity and technology exploration. A computer engineer by training and a career advisor at heart."
     },
     {
       name: "Yash Kamone",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Yash%20Kamone.jpg?raw=true",
-      bio: "A dependable guide in times of need, always ready to share his knowledge and offer assistance for any task."
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Yash%20Kamone.jpg",
+      bio: "Yash Suresh Kamone is a certified cybersecurity expert specializing in Security Operations Center (SOC) operations, VAPT, network defense, and DevOps practices. He holds a Post Graduate Diploma in IT Infrastructure, Systems, and Security (PG-DITISS) from the Centre for Development of Advanced Computing (C-DAC), Pune ."
     },
     {
       name: "Jyotiraditya Parihar",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Jyotiraditya%20Parihar.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Jyotiraditya%20Parihar.jpg",
       bio: "Jyotiraditya Parihar is a dynamic professional, blending expertise in engineering, finance, and data science with a deep passion for machine learning and AI research."
     },
     {
       name: "Ayush Gupta",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Ayush%20Gupta.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Ayush%20Gupta.jpg",
       bio: "A dependable and trustworthy mentor who works discreetly, always there when needed. Continuously exploring new technologies, he is always helpful in offering guidance and support."
     },
     {
       name: "Rohan Misalwar",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Rohan%20Misalwar.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Rohan%20Misalwar.jpg",
       bio: "Rohan Misalwar is an experienced professional with expertise in data science, cyber security, mental health advocacy, public speaking, business analysis, marketing, and operations."
     },
     {
       name: "Om Itankar",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/OM%20ITANKAR.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/OM%20ITANKAR.jpg",
       bio: "Om Itankar is a dedicated Data Science Intern with a background in computer engineering. He has experience as a data scientist, working with tools like Python and Power BI to analyze and visualize data."
     },
     {
       name: "Shantanu Jangle",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Shantanu%20Jangale.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Shantanu%20Jangale.jpg",
       bio: "Shantanu Jangle is a cybersecurity expert specializing in penetration testing, threat intelligence, and red teaming. As a skilled ethical hacker and digital forensics analyst, he has contributed to ISAC India, SAE India, and the UK's National Crime Agency (NCA). His experience spans uncovering vulnerabilities and strengthening defenses in high-stakes environments."
     },
     {
       name: "Kshitij R. Barapatre",
-      image: "https://github.com/utk-chand19/kshitijsir/blob/main/Kshitij%20sir.jpeg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Kshitij%20sir.jpeg.jpg",
       bio: "Kshitij R. Barapatre is a certified penetration tester and cybersecurity expert specializing in VAPT, Digital Forensics, Malware Analysis, and Android Forensics. A trainer and Board of Studies member at SVPCET, he currently works at KPMG, mentoring aspiring professionals in the field."
     }
   ];

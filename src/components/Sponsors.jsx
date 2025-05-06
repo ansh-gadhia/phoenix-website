@@ -4,7 +4,7 @@ import './css/Sponsors.css';
 const Sponsors = () => {
   const learningPartner = {
     name: "EC-Council",
-    logo: "https://raw.githubusercontent.com/cutiepie2468/phxwebpic/refs/heads/main/ec-council.jpg",
+    logo: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/refs/heads/main/ec-council.jpg",
     type: "Learning Partner"
   };
 

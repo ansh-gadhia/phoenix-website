@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import footerimg from '../assets/banner.png'
+import footerimg from '../assets/phoenix_banner_new.png'
 
 const Footer = () => {
     return (
@@ -14,8 +14,18 @@ const Footer = () => {
                     <div className="flex flex-col md:flex-row gap-12 text-sm">
                         <div className="space-y-4">
                             <h2 className="font-semibold text-white text-base">Contact Us</h2>
-                            <a className="text-gray-400 hover:underline block">phoenixcybersec008@gmail.com</a>
-                            <a className="text-gray-400 hover:underline block">+91 9284689196</a>
+                            <a
+                                href="mailto:phoenixcybersec008@gmail.com"
+                                className="text-gray-400 hover:underline block"
+                                >
+                                phoenixcybersec008@gmail.com
+                            </a>
+                            <a
+                                href="tel:+919284689196"
+                                className="text-gray-400 hover:underline block"
+                                >
+                                +91 9284689196
+                            </a>
                             {/* <a 
                                 href="https://forms.gle/dxFDkNuVe5YTWnYH8" 
                                 target="_blank" 

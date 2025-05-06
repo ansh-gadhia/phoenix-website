@@ -32,47 +32,47 @@ export function CurrentTeamSection() {
   const currentTeamMembers = [
     {
       name: "Ansh Gadhia",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/ansh.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/ansh.jpg",
       bio: "A passionate and driven individual with a knack for multitasking, leadership, and out-of-the-box thinking. An enthusiastic explorer and CTF player, always seeking new challenges to sharpen critical thinking and problem-solving skills."
     },
     {
       name: "Vidyan Tidke",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Vidyan%20Tidke.png?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Vidyan%20Tidke.png",
       bio: "Vidyan Tidke is a passionate cybersecurity enthusiast, mastering the art of malware analysis & development, and cyber forensics. With a knack for programming and OSINT, he thrives in the world of Linux, CTF & competitions."
     },
     {
       name: "Onkar Sinha",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Onkar.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Onkar.jpg",
       bio: "Onkar Sinha is a versatile professional, excelling as an analyst, sales and marketing specialist, and research assistant. A student with a strong passion for cybersecurity and programming, he is also the founder of Tech_Pupil."
     },
     {
       name: "Utkarsh Chandekar",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Utkarsh.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Utkarsh.jpg",
       bio: "Utkarsh Chandekar is a cybersecurity enthusiast with a solid foundation in Linux basics, IoT, and web security. Actively engaged in Hack The Box (HTB) challenges and CTF competitions, he sharpens his skills while exploring the latest in cybersecurity techniques and problem-solving."
     },
     {
       name: "Amit Prajapati",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Amit.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Amit.jpg",
       bio: "Amit Prajapati is a cybersecurity professional specializing in Android security. With a passion for ethical hacking, Amit has extensive experience in both developing and playing Capture The Flag (CTF) challenges."
     },
     {
       name: "Ayush Benny",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Ayush.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Ayush.jpg",
       bio: "Ayush Benny is a driven cybersecurity enthusiast specializing in penetration testing and digital forensics. With a solid foundation in Linux and management skills, he is an aspiring entrepreneur."
     },
     {
       name: "Shruti Bhande",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/shruti.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/shruti.jpg",
       bio: "Shruti Bhande is proficient in cryptography, actively working on encryption/decryption models through projects, CTF challenges, and solving labs on TryHackMe (THM) and Hack The Box (HTB)."
     },
     {
       name: "Aayushi Salbarde",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Aayushi.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Aayushi.jpg",
       bio: "Aayushi Salbarde is passionate cybersecurity enthusiast with expertise in cryptography and a strong interest in digital forensics. Her passion lies in identifying and exploiting vulnerabilities in encryption models."
     },
     {
       name: "Sujal Thakur",
-      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Sujal%20.jpg?raw=true",
+      image: "https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/Sujal%20.jpg",
       bio: "Sujal Thakur, a computer science enthusiast, is exploring cloud security, penetration testing, and computer networking. With a strong interest in ethical hacking, he is focused on mastering cybersecurity trends."
     }
   ];

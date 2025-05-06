@@ -9,7 +9,7 @@ export function FounderSection() {
         <div className="w-48 h-48 rounded-full overflow-hidden bg-gradient-to-r from-blue-500 to-purple-500 p-1">
           <div className="w-full h-full rounded-full overflow-hidden">
             <img
-              src="https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/vishal-injewar.jpg?raw=true"
+              src="https://raw.githubusercontent.com/ansh-gadhia/phxwebpic/main/avatar/vishal-injewar.jpg"
               alt="Vishal Injewar"
               className="w-full h-full object-cover transition-transform duration-300 hover:scale-110"
               onError={(e) => {
