@@ -1,8 +1,7 @@
 {
-  "name": "phoenixcybersecurity",                   // Must match your CF Worker name
-  "compatibility_date": "2025-08-19",               // Required for deployment
+  "name": "phoenixcybersecurity",
+  "compatibility_date": "2025-08-19",
   "assets": {
-    "directory": "./dist",                          // Or "./build" depending on your setup
-    "binding": "ASSETS"                             // Optional, allows asset binding
+    "directory": "./dist"
   }
 }
