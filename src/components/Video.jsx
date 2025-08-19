@@ -1,20 +1,18 @@
 import React from "react";
 
 const Video = () => {
+  const videoId = "4QNcRBwGv0o";
+
   return (
-    <div className="flex justify-center items-center">
-      <video
-        className="rounded-2xl shadow-lg"
-        width="75%"
-        controls
-        autoPlay
-        loop
-        muted
-        playsInline
-      >
-        <source src="/bannervideo.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+    <div className="video-container" style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
+      <iframe
+        src={`https://www.youtube.com/embed/${videoId}`}
+        style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+        title="Banner Video"
+      />
     </div>
   );
 };
