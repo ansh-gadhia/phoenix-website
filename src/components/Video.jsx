@@ -1,15 +1,12 @@
 import React from "react";
+import BanVid from "/bannervideo.mp4"
 
-const Video = () => {
-  return (
-    <center>
-      <video 
-        controls 
-        width="75%" 
-        src="https://raw.githubusercontent.com/ansh-gadhia/phx-bannervideo/main/bannervedio.mp4"
-      ></video>
-    </center>
-  );
-};
+const Video = () =>{
+    return (
+        <center>
+            <video controls width="75%" src={BanVid}></video>
+        </center>
+    );
+}
 
 export default Video;
